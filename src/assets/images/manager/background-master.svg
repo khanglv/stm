@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3136 97 327 118">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        opacity: 0.2;
+      }
+
+      .cls-3, .cls-6 {
+        opacity: 0.7;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-10, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #54d8ff;
+      }
+
+      .cls-4, .cls-5, .cls-7, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: #55d8fe;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        stroke: #edf1f5;
+      }
+
+      .cls-8 {
+        stroke: #a4a1fb;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.016" y1="0.016" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1592c3"/>
+      <stop offset="1" stop-color="#0c6f96"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#54d8ff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a7a7ff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_304" data-name="Group 304" transform="translate(3120)">
+    <rect id="Rectangle_71" data-name="Rectangle 71" class="cls-1" width="327" height="118" rx="3" transform="translate(16 97)"/>
+    <g id="Group_245" data-name="Group 245" class="cls-2" transform="translate(-373.512 -313.572)">
+      <g id="Total_Views_Graph" data-name="Total Views Graph" transform="translate(390 477.032)">
+        <path id="Filled.Graph" class="cls-3" d="M330,394.718v-40.3s36.42,40.063,66.337,41.57c33.38-.34,33.654-20.8,62.986-32,24.556-8.794,43.294,15.194,63.835,15.779s34.716-16.441,62.74-17.623c36.307,1.781,65.442,24.528,67.7,25.751v16.63l-323.6.029Z" transform="translate(-328.514 -353.109)"/>
+        <path id="Line.Graph" class="cls-4" d="M312.953,279.164s37.553,40.8,66.9,41.183,39.386-24.04,62.951-32.273,44.008,15.7,63.683,16S545,286.094,569.176,286.591s51.813,14.328,67.093,25.238" transform="translate(-311.184 -277.631)"/>
+        <g id="Jun.Ellipse" class="cls-5" transform="translate(323.546 32.954)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="May.Ellipse" class="cls-5" transform="translate(255.807 7.422)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Apr.Ellipse" class="cls-5" transform="translate(193.118 24.938)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Mar.Ellipse" class="cls-5" transform="translate(129.835 8.906)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Feb.Ellipse" class="cls-5" transform="translate(66.552 41.267)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Jan.Ellipse" class="cls-5" transform="translate(0 0)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+      </g>
+      <g id="Products_Sold_Graph" data-name="Products Sold Graph" transform="translate(390 461)">
+        <path id="Filled.Graph-2" data-name="Filled.Graph" class="cls-6" d="M330,357.35V330.962s37.314,17.309,67.129,18.4c32.239-1.054,37.821-8.461,62.933-18.4,21.459-8.281,42.859-10.553,63.4-9.968s38.344,9.53,62.607,10.447c42.8-3.693,64.641-22.366,67.533-30.164v65.888l-323.6.029Z" transform="translate(-328.515 -299.71)"/>
+        <path id="Line.Graph-2" data-name="Line.Graph" class="cls-7" d="M313,275.3s37.074,17.721,66.387,18.1,40.572-9.145,63.024-18.079,43.8-10.459,63.446-10.159,38.753,9.663,62.9,10.16S631.96,259.143,636.3,245.24" transform="translate(-311.218 -243.981)"/>
+        <g id="Jun.Ellipse-2" data-name="Jun.Ellipse" class="cls-8" transform="translate(323.386 0)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="May.Ellipse-2" data-name="May.Ellipse" class="cls-8" transform="translate(255.68 29.985)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Apr.Ellipse-2" data-name="Apr.Ellipse" class="cls-8" transform="translate(193.022 19.891)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Mar.Ellipse-2" data-name="Mar.Ellipse" class="cls-8" transform="translate(129.77 29.985)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Feb.Ellipse-2" data-name="Feb.Ellipse" class="cls-8" transform="translate(66.815 48.095)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+        <g id="Jan.Ellipse-2" data-name="Jan.Ellipse" class="cls-8" transform="translate(0 29.688)">
+          <circle class="cls-9" cx="1.483" cy="1.483" r="1.483"/>
+          <circle class="cls-10" cx="1.483" cy="1.483" r="0.483"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
